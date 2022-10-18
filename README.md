@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Задание
+
+​
+
+1. Cоздайте новый React-проект с помощью "create-react-app".
+2. Удалите из него лишние файлы.
+3. Запустите его.
+4. Возьмите [этот макет](<https://www.figma.com/file/zH3S0wJoA4aD2E5GEiNnwv/Figma-Website-Template---Landie-Demo-(Community)?node-id=0%3A88>),
+   часть "Landing page - 2", и сверстайте его как React-проект, разделив на компоненты.
+5. Используйте `props` и создание массивов компонентов с помощью `map` там, где это
+   логично (например там, где текст или изображение внутри компонента могут меняться).
+6. Для создания CSS используйте CSS-модули.
+   ​
