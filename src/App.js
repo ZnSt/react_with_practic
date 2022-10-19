@@ -1,7 +1,12 @@
 import "./App.css";
+import { Faq } from "./components/Faq";
+import { ControledInput } from "components/ControledInput/ControledInput";
 
-function App() {
-  return <div></div>;
+export function App() {
+  return (
+    <>
+      <ControledInput />
+      <Faq />;
+    </>
+  );
 }
-
-export default App;
